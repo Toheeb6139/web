@@ -43,8 +43,8 @@
   height: 3px;
   width: 0;
   background: #009688;
-  position: absolute;
-  left: 0;
+  display: block;
+  margin: auto;
   bottom: -10px;
   transition: 0.5s;
 }
